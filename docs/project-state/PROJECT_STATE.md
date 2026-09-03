@@ -9,7 +9,7 @@ Current Checkpoint: P0-C1 (Repository & Development Contract)
 ## Checkpoint Status Overview
 
 ### P0 - FOUNDATION
-* **P0-C1 (Repository & Development Contract): IN PROGRESS**
+* **P0-C1 (Repository & Development Contract): VALIDATING**
 * P0-C2 (Local Runtime Foundation): PLANNED
 * P0-C3 (Persistence & Migration Foundation): PLANNED
 * P0-C4 (Testing & CI Foundation): PLANNED
@@ -32,4 +32,4 @@ Current Checkpoint: P0-C1 (Repository & Development Contract)
 None.
 
 ## Active Blockers
-None. Next permitted action is implementation of P0-C1.
+None. Next permitted action is owner acceptance of P0-C1.
