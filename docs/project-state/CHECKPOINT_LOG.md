@@ -6,4 +6,4 @@ The authoritative history of checkpoint progression and acceptance for EvalOps.
 
 | Checkpoint | Status | Date | PR / Issue | Evidence ID | Owner Acceptance |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| P0-C1 | IN PROGRESS | - | - | - | - |
+| P0-C1 | VALIDATING | 2024-05-20 | - | - | - |
