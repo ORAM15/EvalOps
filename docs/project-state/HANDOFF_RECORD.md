@@ -12,5 +12,5 @@ The concise operational briefing that allows a fresh AI session to resume withou
 Establish the repository's engineering conventions and checkpoint operating model.
 
 **What to do next:**
-1. Wait for human PR review and acceptance of P0-C1.
+1. Wait for human PR review and acceptance of P0-C1. BLOCKED.
 2. Once P0-C1 is explicitly ACCEPTED, progress to P0-C2 (Local Runtime Foundation).
