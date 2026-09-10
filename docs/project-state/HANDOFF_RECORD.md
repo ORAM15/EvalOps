@@ -12,5 +12,6 @@ The concise operational briefing that allows a fresh AI session to resume withou
 Establish the repository's engineering conventions and checkpoint operating model.
 
 **What to do next:**
-1. Wait for human PR review and acceptance of P0-C1.
-2. Once P0-C1 is explicitly ACCEPTED, progress to P0-C2 (Local Runtime Foundation).
+1. Human Owner: Provide formal ACCEPTANCE of P0-C1 in `CHECKPOINT_LOG.md`. The PR is already merged.
+2. Human Owner: Approve the exact technology stack (currently PROPOSED in `DECISION_LOG.md`) to unblock P0-C2.
+3. Once P0-C1 is explicitly ACCEPTED and the tech stack is approved, progress to P0-C2 (Local Runtime Foundation).
