@@ -32,4 +32,4 @@ Current Checkpoint: P0-C1 (Repository & Development Contract)
 None.
 
 ## Active Blockers
-None. P0-C1 is complete and awaits owner acceptance via PR.
+P0-C1 PR is merged but awaits explicit owner acceptance in CHECKPOINT_LOG.md. Execution of P0-C2 is blocked until owner acceptance is recorded.
