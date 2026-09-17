@@ -32,4 +32,4 @@ Current Checkpoint: P0-C1 (Repository & Development Contract)
 None.
 
 ## Active Blockers
-None. Next permitted action is owner acceptance of P0-C1.
+* **Human Approval Required:** Execution is blocked pending owner acceptance of P0-C1. Next permitted action is owner review and acceptance of P0-C1 PR.

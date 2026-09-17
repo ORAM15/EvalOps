@@ -17,5 +17,5 @@ Establish the repository's engineering conventions and checkpoint operating mode
 3. Updated project state files to reflect the completion of the permitted work.
 
 **What to do next:**
-1. Wait for human owner review and acceptance of P0-C1 PR.
+1. Wait for human owner review and acceptance of P0-C1 PR. Execution is safely stopped as human approval is required.
 2. Once ACCEPTED, update `CHECKPOINT_LOG.md` and transition to P0-C2 (Local Runtime Foundation).
