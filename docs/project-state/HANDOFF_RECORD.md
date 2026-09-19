@@ -6,7 +6,9 @@ The concise operational briefing that allows a fresh AI session to resume withou
 **Date:** Current Checkpoint Completion
 **Current Checkpoint:** P0-C1 (Repository & Development Contract)
 **Target Branch:** `cp/P0-C1-foundation`
-**Current Status:** VALIDATING
+**Current Status:** BLOCKED
+
+**Blocker:** Execution stopped safely. P0-C1 PR is pending human owner approval. Autonomous execution must not proceed until explicit acceptance.
 
 **Objective:**
 Establish the repository's engineering conventions and checkpoint operating model.
