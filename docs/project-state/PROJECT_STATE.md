@@ -34,3 +34,5 @@ None.
 ## Active Blockers
 * P0-C1 PR is merged but awaits formal owner ACCEPTANCE in `CHECKPOINT_LOG.md`.
 * P0-C2 is blocked because the exact technology stack is PROPOSED, not formally approved.
+P0-C1 is BLOCKED waiting for owner PR acceptance.
+P0-C1 is in VALIDATING state and execution is currently BLOCKED pending human PR review and explicit owner acceptance to transition to ACCEPTED.
