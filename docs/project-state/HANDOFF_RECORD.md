@@ -24,3 +24,5 @@ Establish the repository's engineering conventions and checkpoint operating mode
 2. Once P0-C1 is explicitly ACCEPTED, progress to P0-C2 (Local Runtime Foundation).
 1. Wait for human owner review and acceptance of P0-C1 PR.
 2. Once ACCEPTED, update `CHECKPOINT_LOG.md` and transition to P0-C2 (Local Runtime Foundation).
+3. Agent initialized and confirmed P0-C1 remains in VALIDATING state.
+4. Execution safely stopped. Awaiting explicit human ACCEPTANCE of P0-C1 in CHECKPOINT_LOG.md.
