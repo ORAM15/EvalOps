@@ -21,3 +21,4 @@ Establish the repository's engineering conventions and checkpoint operating mode
 2. Human Owner: Approve the exact technology stack (currently PROPOSED in `DECISION_LOG.md`) to unblock P0-C2.
 3. Once P0-C1 is explicitly ACCEPTED and the tech stack is approved, progress to P0-C2 (Local Runtime Foundation).
 *Note: Autonomous execution agent started and confirmed P0-C1 is still BLOCKED awaiting human acceptance.*
+*Note: New autonomous run verified P0-C1 is still blocked and stopped safely.*
